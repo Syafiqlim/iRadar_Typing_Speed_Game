@@ -1,0 +1,11 @@
+{
+    "mode": "words",
+    "punctuation": false,
+    "numbers": false,
+    "difficulty": "normal",
+    "blindMode": false,
+    "timeLimit": 60,
+    "textGeneration": "random",
+    "textDisplay": "full"
+  }
+  

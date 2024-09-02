@@ -1,0 +1,12 @@
+{
+    "mode": "words",
+    "punctuation": true,
+    "numbers": true,
+    "difficulty": "expert",
+    "blindMode": false,
+    "timeLimit": 60,
+    "textGeneration": "random",
+    "textDisplay": "word-by-word",
+    "displayWordsCount": 1
+  }
+  
